@@ -1,6 +1,6 @@
 # Emuladores Android com Docker
 
-Este projeto fornece uma maneira fácil de subir e gerenciar múltiplos emuladores Android utilizando Docker e Docker Compose. É ideal para testes de aplicativos, desenvolvimento ou qualquer cenário que exija um ambiente de emulação Android isolado e reproduzível.
+Este projeto fornece uma maneira fácil de subir e gerenciar múltiplos (no caso, estamos subindo 2 dispositivos emulados Android) utilizando Docker e Docker Compose. É ideal para testes de aplicativos, desenvolvimento ou qualquer cenário que exija um ambiente de emulação Android isolado e reproduzível.
 
 ## Pré-requisitos
 
